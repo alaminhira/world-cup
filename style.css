@@ -30,8 +30,8 @@ a {
 .btn {
   padding: 0.7rem 1.5rem;
   font-size: 1.125rem;
-  background: #DD0000;
-  border: 1px solid #DD0000;
+  background: #00dd6f;
+  border: 1px solid #00dd6f;
   border-radius: 0.5rem;
   transition: all 0.2s ease-in-out;
 }
@@ -147,11 +147,11 @@ a {
   transition: all 0.2s ease-in-out;
 }
 .nav__link:hover a {
-  background: #DD0000;
+  background: #00dd6f;
   color: #fff;
 }
 .nav__link.active a {
-  background: #DD0000;
+  background: #00dd6f;
   color: #fff;
 }
 @media (max-width: 71.25rem) {
